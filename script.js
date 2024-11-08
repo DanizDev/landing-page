@@ -1,1 +1,1 @@
-alert("Versão 2")
+alert("Versão 2");
